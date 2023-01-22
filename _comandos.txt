@@ -1,3 +1,6 @@
+* Os arquivos aws-ayala.pem e credentials.csv do diretório raiz foram ignorados no commit inicial.
+
+* Os zup_key e zup_key.pub do diretório ./terraform-script/key também foram ignorados no commit inicial.
 
 terraform init (qdo add um modulo novo)
 
@@ -18,4 +21,3 @@ sudo docker run --rm -e spring_datasource_url=jdbc:postgresql://XXX:5432/zup -e 
 sudo docker ps (pra pegar o id do container)
 
 sudo docker logs -f <id>
-
