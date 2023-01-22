@@ -1,4 +1,5 @@
 ./terraform-script/Key
 ./terraform-script/.terraform
+.DS_Store
 *.pem
 credentials.csv
