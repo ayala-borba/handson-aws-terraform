@@ -1,4 +1,4 @@
-**/Key/*
+**/key/*
 **/.terraform/*
 .DS_Store
 *.pem
