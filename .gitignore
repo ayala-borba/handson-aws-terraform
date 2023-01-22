@@ -1,0 +1,4 @@
+./terraform-script/Key
+./terraform-script/.terraform
+*.pem
+credentials.csv
